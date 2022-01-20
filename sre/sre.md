@@ -1,5 +1,10 @@
 # SRE
 
+## Tools
+- [A guide to the best SRE tools](https://www.cortex.io/post/a-guide-to-the-best-sre-tools)
+
+- [How to Choose Monitoring Tools for DevOps and SRE](https://thechief.io/c/blameless/how-choose-monitoring-tools-devops-and-sre/)
+
 ## Unix
 
 - perf [zine](https://jvns.ca/perf-zine.pdf)
@@ -11,5 +16,3 @@
 - 90 linux commands [sysadmins](https://haydenjames.io/90-linux-commands-frequently-used-by-linux-sysadmins/)
 
 - iowait io [commands](https://haydenjames.io/what-is-iowait-and-linux-performance/)
-
-## Golang
