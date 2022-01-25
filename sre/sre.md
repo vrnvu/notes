@@ -18,3 +18,7 @@
 - 90 linux commands [sysadmins](https://haydenjames.io/90-linux-commands-frequently-used-by-linux-sysadmins/)
 
 - iowait io [commands](https://haydenjames.io/what-is-iowait-and-linux-performance/)
+
+## Slides
+
+[System Methodology](https://www.brendangregg.com/Slides/EuroBSDcon2017_SystemMethodology.pdf)
