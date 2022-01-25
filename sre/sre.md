@@ -7,6 +7,8 @@
 
 ## Unix
 
+- linux performance [brendan gregg](https://www.brendangregg.com/linuxperf.html)
+
 - perf [zine](https://jvns.ca/perf-zine.pdf)
 
 - perf linux kernel [slides](https://www.slideshare.net/lcplcp1/performance-analysis-tools-for-linux-kernel)
