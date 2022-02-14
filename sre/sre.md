@@ -1,5 +1,9 @@
 # SRE
 
+## Observability
+
+- [aws](https://aws.amazon.com/builders-library/building-dashboards-for-operational-visibility)
+
 ## Tools
 - [A guide to the best SRE tools](https://www.cortex.io/post/a-guide-to-the-best-sre-tools)
 
